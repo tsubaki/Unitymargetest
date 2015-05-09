@@ -63,10 +63,10 @@ LightmapSettings:
     m_TextureHeight: 1024
     m_AOMaxDistance: 1
     m_Padding: 2
-    m_CompAOExponent: 1
+    m_CompAOExponent: 0
     m_LightmapParameters: {fileID: 0}
     m_TextureCompression: 1
-    m_FinalGather: 1
+    m_FinalGather: 0
     m_FinalGatherRayCount: 1024
   m_LightmapSnapshot: {fileID: 0}
   m_RuntimeCPUUsage: 25
